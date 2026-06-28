@@ -48,7 +48,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+O
 > apt upgrade
 > pkg install python
 > pkg install git -y
-> git clone https://github.com/mrjuice01/WhatsApp-Hacker
+> git clone https://github.com/chrisst2025-cell/Hack_whatshapp
 > cd WhatsApp-Hacker
 > python3 main.py
 ```
