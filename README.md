@@ -1,0 +1,80 @@
+# Dark Juice WhatsApp OTP Hacker
+# This is a Python script used to bypass whatsapp OTP verification process
+This script was created by Mr Juice and Without Contributors😂 Dont Worry I work Alone
+
+Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
+
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="#">
+        <img
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+OPT+Hacker+tool+by+Mr+Juice"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+![alt text]()
+# Coded by Mr Juice
+# Follow My Accounts Below
+
+<p align="center">
+  <a href="https://github.com/mrjuice01/BayMax-bot-Beta">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot.visitor-badge&left_text=Total%20Repo%20Visits">
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+ <a href="#"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
+<a href="#"><img title="GitHub version" src="https://img.shields.io/github/license/MrJuice/T-Remix?color=Brightgree" ></a>
+ <a href="#"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-Bhavik Tutorials-green"/></a>
+ <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
+ <a href="#"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
+</p>
+    
+    
+<a href="https://github.com/mrjuice01">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot.visitor-badge&left_text=Total%20Repo%20Visitors)">
+  </a>
+</br>
+     </br>  
+     
+
+# Dark Juice WhatsApp OTP Hacker
+
+# INSTALLATION
+
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
+```bash
+> apt update
+> apt upgrade
+> pkg install python
+> pkg install git -y
+> git clone https://github.com/mrjuice01/WhatsApp-Hacker
+> cd WhatsApp-Hacker
+> python3 main.py
+```
+</details>
+
+# CONTACT
+Click [here](https://bio.link/mrjuice) to contact me
+
+# REQUIREMENTS
+> Linux, Termux, Windows
+
+> Follow Me On All my Accounts
+
+> Phone number with country code
+
+# ACCESS CODE
+You will be provided an Access code
+You need to verify it to access the script
+
+# DISCLAIMER ⚠️
+This tool is only created for educational purposes
+
+Iam not responsible for any actions took by users
+
+Iam not responsible for any DAMAGE caused to people using this script
+
+Im not responsible for any DAMAGE that you might encounter. Use At own risk.
+
+## Mr Juice
